@@ -1,11 +1,11 @@
-title: Quant Humanists Blog
-author: Aurelia
-email: auremoser@gmail.com
+title: Taeblog
+author: Tae Hyoung Jo
+email: taehyoung.jo@yale.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Some curious coding and cleverness.
+  This is the online home of the musings and projects of THJ
 
-twitter_username: auremoser 
-github_username:  auremoser
+linkedin_username: taehyoungjo
+github_username:  taehyoungjo
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
