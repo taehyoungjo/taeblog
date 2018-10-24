@@ -6,6 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
 
 linkedin_username: taehyoungjo
 github_username:  taehyoungjo
+rss: rss
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
